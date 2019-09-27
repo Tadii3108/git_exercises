@@ -1,0 +1,403 @@
+    1  man sudo_root
+    2  sudo apt get updates
+    3  pwd
+    4  ls
+    5  mkdir Umuzi
+    6  ls
+    7  cd Umuzi
+    8  ls
+    9  cd ..
+   10  ls
+   11  clear
+   12  pwd
+   13  cd ..
+   14  ls
+   15  ehco hi tzingoni
+   16  echo hi tzingoni
+   17  sudo apt-get install fortune cowsay
+   18  ~/.bashrc
+   19  ~/.bashrc echo "Hi tzingoni"
+   20  vi ~/.bashrc
+   21  cd /etc
+   22  sudo pico motd
+   23  sudo apt-get update
+   24  sudo apt-get upgrade
+   25  wget https://dl.google.com/linux/direct/go
+   26  clear
+   27  sudo apt-get install libxss1 libappindicator1 libindicator7
+   28  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   29  sudo dpkg -i google-chrome*.deb
+   30  sudo apt-get install -f
+   31  google-chrome
+   32  .bash
+   33  /bash
+   34  cd ..
+   35  ls -ls
+   36  ls -la
+   37  ls
+   38  cd Workspace/
+   39  ls
+   40  cat summary.md 
+   41  cd..
+   42  cd ..
+   43  ls
+   44  rm google-chrome-stable_current_amd64.deb 
+   45  ls
+   46  clear
+   47  bash
+   48  xinput
+   49  ls
+   50  xinput
+   51  locale
+   52  ls
+   53  d ..
+   54  cd ..
+   55  LC_ADDRESS=en_GB.UTF-8
+   56  sudo apt update
+   57  cd ..
+   58  ls
+   59  cd cdrom/
+   60  ls
+   61  ls -la
+   62  sudo ls -la
+   63  sudo apt-get upgrade
+   64  cd ..
+   65  clear
+   66  atom
+   67  git
+   68  sudo apt install git
+   69  git
+   70  sudo apt install htop
+   71  npm
+   72  yum
+   73  sudo apt install yum
+   74  yum install nodejs12
+   75  ls
+   76  cd Workspace/
+   77  ls
+   78  cd Downloads/
+   79  ls
+   80  cd ..
+   81  ls
+   82  cd Workspace/
+   83  ls
+   84  mv excercise.md /tmp
+   85  ls
+   86  ls -la
+   87  cd /
+   88  ls
+   89  cd tmp/
+   90  ls
+   91  cd /
+   92  ls
+   93  cd home
+   94  ls
+   95  cd tadiwa
+   96  ls
+   97  cd /
+   98  ls
+   99  cd tmp/
+  100  ls
+  101  rm /tmp/exercise.md
+  102  rm /tmp/excercise.md
+  103  ls
+  104  pwd
+  105  cd ..
+  106  cd home/
+  107  cd tadiwa/
+  108  cd Workspace/
+  109  ls
+  110  touch exercise.md
+  111  ls
+  112  mv exercise.md /tmp
+  113  locate exercise.md
+  114  sudo rm /tmp/exercise.md
+  115  cd /
+  116  cd tmp/
+  117  ls
+  118  cd ..
+  119  cd home/
+  120  cd tadiwa/
+  121  cd Workspace/
+  122  ls
+  123  locate umuzi
+  124  locate umuzi > search_result.txt
+  125  ls
+  126  cat search_result.txt 
+  127  rm search_result.txt 
+  128  ls
+  129  locate umuzi > search_result.md
+  130  ls
+  131  cat search_result.md 
+  132  cd ..
+  133  ls
+  134  cd Documents/
+  135  ls
+  136  cd ..
+  137  cd Desktop/
+  138  ls
+  139  cd Challenges/
+  140  ls
+  141  cd ..
+  142  cp /Documents/pad.md pad_copy.md
+  143  cp /Documents pad_copy.md
+  144  ls
+  145  cp pad.md > pad_copy.md
+  146  cp /Documents/pad.md > pad_copy.md
+  147  cp /Documents/pad.md >> pad_copy.md
+  148  find *.pdf
+  149  locate *.pdf
+  150  cd ..
+  151  pwd
+  152  find *.pdf
+  153  find /home/tadiwa/ -name "*.pdf"
+  154  find /home -name *.pdf
+  155  cd ..
+  156  pwd
+  157  find /home -name *.pdf
+  158  find -name *.pdf
+  159  ls
+  160  cd Workspace/
+  161  nano my_bio.md
+  162  sudo apt install terminator
+  163  clear
+  164  ls
+  165  cd Workspace/
+  166  ls
+  167  vim mybio.md
+  168  ls
+  169  cd ..
+  170  ls
+  171  cd Workspace/
+  172  ls
+  173  find -name .pdf
+  174  cd ..
+  175  find -name .pdf
+  176  pwd
+  177  cd ..
+  178  find -name .pdf
+  179  cd tadiwa/
+  180  touch example.pdf
+  181  touch linux.pdf
+  182  touch ubuntu.pdf
+  183  ls
+  184  find -name .pdf
+  185  find -name *.pdf
+  186  find /home -name *.pdf
+  187  find *.pdf
+  188  find *.pdf >> Workspace/
+  189  find *.pdf >> Workspace/umuzi.md
+  190  pwd
+  191  cd Workspace/
+  192  cat umuzi.md 
+  193  cd ..
+  194  pwd
+  195  find . -mtime -1 -print
+  196  touch -t `date +%m%d0000` /tmp/$$
+  197  ls
+  198  find /tmefndr/oravl01 -type f -newer /tmp/$$
+  199  ls -la
+  200  pwd
+  201  cd ..
+  202  ls -la
+  203  cd tadiwa/
+  204  ls -la
+  205  grep today's date
+  206  26/09/2019
+  207  nano README.md
+  208  ls
+  209  cat README.md
+  210  vim
+  211  sudo apt instll vim
+  212  vim README.md
+  213  sudo apt install vim
+  214  vim README.md
+  215  cat README.md
+  216  git status
+  217  ls
+  218  cat README.md
+  219  cat README.md.save
+  220  rm README.md.save
+  221  ls
+  222  git status
+  223  git add .
+  224  git commit -m "README.md"
+  225  git status
+  226  git log
+  227  git reset README.md
+  228  git log
+  229  ls
+  230  vim README.md
+  231  cat README.md 
+  232  git status
+  233  git add .
+  234  git commit -m "third commit"
+  235  git log
+  236  git checkout
+  237  dc59012d74994ca4a87eedb6c9857d8d494d4c80
+  238  git checkout
+  239  dc59012d74994ca4a87eedb6c9857d8d494d4c80
+  240  cat README.md 
+  241  git checkout master
+  242  cat README.md 
+  243  GIT RESET
+  244  git reset
+  245  git status
+  246  git log
+  247  q
+  248  ls
+  249  git commit --amend
+  250  git rm --cached <README.md>
+  251  git rm --cached README.md
+  252  git log
+  253  ls
+  254  git branches
+  255  git branch
+  256  git checkout master
+  257  git checkout dc59012d74994ca4a87eedb6c9857d8d494d4c80
+  258  git log
+  259  git checkout dc59012d74994ca4a87eedb6c9857d8d494d4c80
+  260  cat README.md 
+  261  git checkout master
+  262  cat README.md 
+  263  git branch
+  264  git checkout master
+  265  git checkout -b "milkshake-flavours"
+  266  git branch
+  267  git checkout
+  268  git checkout master
+  269  git branch
+  270  git checkout milkshake-flavours
+  271  git branch
+  272  vim milkshakes.md
+  273  cat milkshakes.md 
+  274  git status
+  275  git add "milkshakes.md" 
+  276  git status
+  277  git commit -m "added initial flavours"
+  278  git log
+  279  git checkout master
+  280  git branch
+  281  git checkout master
+  282  rm README.md 
+  283  git checkout master
+  284  git branch
+  285  git checkout -b "history"
+  286  git branch
+  287  git log
+  288  history > history.txt
+  289  git status
+  290  git add .
+  291  git commit -m "added history"
+  292  git log
+  293  git checkout milkshake-flavours 
+  294  git log
+  295  git branch
+  296  ls
+  297  git checkout master
+  298  git branch
+  299  ls
+  300  vim README.md 
+  301  cat README.md 
+  302  git status
+  303  git add .
+  304  git commit -m "random readme changes"
+  305  git log
+  306  git checkout history 
+  307  cat README.md 
+  308  git branch
+  309  rm README.md echo "booya" > README.md 
+  310  rm README.md
+  311  echo "booya" > README.md
+  312  ls
+  313  cat README.md 
+  314  git status
+  315  git add .
+  316  git commit -m "rewrote readme"
+  317  git log
+  318  git checkout master
+  319  git branch
+  320  ls
+  321  git log
+  322  git checkout milkshake-flavours
+  323  ls
+  324  git log
+  325  git checkout history
+  326  ls
+  327  git log
+  328  git checkout master
+  329  ls
+  330  git log
+  331  git reset --hard HEAD^
+  332  git log
+  333  git checkout milkshake-flavours
+  334  ls
+  335  vim README.md
+  336  ls
+  337  git log
+  338  git checkout history 
+  339  git status
+  340  git add .
+  341  git commit
+  342  ls
+  343  cd git-basic-exercises/
+  344  ls
+  345  git branch
+  346  git log
+  347  git merge history
+  348  git checkout master
+  349  git stash
+  350  git merge history
+  351  git add .
+  352  git commit -m "I dont know what to type"
+  353  git push
+  354  cd ..
+  355  rm -rf git-basic-exercises/
+  356  ls
+  357  clear
+  358  mkdir git-basic-exercises
+  359  cd git-basic-exercises/
+  360  ls
+  361  echo "# git_exercises" >> README.md
+  362  ls
+  363  git init
+  364  git add README.md 
+  365  git commit -m "first commit"
+  366  git remote add origin https://github.com/Tadii3108/git_exercises.git
+  367  git push -u origin master
+  368  ls -a
+  369  git status
+  370  git log
+  371  vim README.md 
+  372  cat README.md 
+  373  git status 
+  374  git add .
+  375  git commit -m "second commit"
+  376  git log
+  377  vim README.md 
+  378  git status
+  379  git add .
+  380  git commit -m "third commit"
+  381  git  status
+  382  git log
+  383  git push
+  384  git checkout d95cfd8614327bfcddfaa28a03bd35b9be1eb128
+  385  git log
+  386  cat README.md 
+  387  git checkout master
+  388  cat README.md 
+  389  git branch milkshake-flavours
+  390  git branch
+  391  git checkout milkshake-flavours
+  392  git branch
+  393  vim milkshakes.md
+  394  git status
+  395  git add .
+  396  git commit -m "added initial flavours"
+  397  git log
+  398  git checkout master
+  399  git log
+  400  git branch history
+  401  git checkout history 
+  402  git log
+  403  history > history.txt
